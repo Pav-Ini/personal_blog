@@ -4,7 +4,7 @@ title: "Pavlina Ingrid Schuster"
 description: "I post about HR data, recOps, employer branding, and ocasionally 'bout coffee & cats."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /personal_blog/
+baseurl: 
 url: "http://pavlinaschuster.com"
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: ''
@@ -20,7 +20,7 @@ authors:
     display_name: Pavlina
     avatar: 'assets/images/pavlina_schuster.jpg'
     email: pav.schuster@gmail.com
-    web: personal_blog/About-me
+    web: http://pavlinaschuster.com/About-me
     description: "Author of the non-periodical blog, proud Ravendor, mother of dragons - well, ok, it's a marimo ball called Flo, but still!"
   
 # Plugins
