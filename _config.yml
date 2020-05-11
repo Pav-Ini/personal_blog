@@ -4,7 +4,7 @@ title: "Pavlina Ingrid Schuster"
 description: "I post about HR data, recOps, employer branding, and ocasionally 'bout coffee & cats."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 
+baseurl: "http://pavlinaschuster.com"
 url: "http://pavlinaschuster.com"
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: ''
